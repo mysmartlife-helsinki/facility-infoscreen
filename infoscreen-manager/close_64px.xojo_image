@@ -1,0 +1,40 @@
+#tag MultiImage
+Image close_64px
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGOAAAAAAGOAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8JY2xvc2UucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAAA3JlcwAAAgBSLzpVc2VyczpybWFjOkRvY3VtZW50czpHaXRIdWJMb2NhbDptc2w6SW5mb1NjcmVlbjpJbmZvc2NyZWVuIE1hbmFnZXI6cmVzOmNsb3NlLnBuZwAOABQACQBjAGwAbwBzAGUALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAFBVc2Vycy9ybWFjL0RvY3VtZW50cy9HaXRIdWJMb2NhbC9tc2wvSW5mb1NjcmVlbi9JbmZvc2NyZWVuIE1hbmFnZXIvcmVzL2Nsb3NlLnBuZwATAAEvAAAVAAIAC///AAAAAAAAAAA=
+		FullPath = /Users/rmac/Documents/GitHubLocal/msl/InfoScreen/Infoscreen Manager/res/close.png
+		PartialPath = res\close.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 64.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 64.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 64.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 64.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 64.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 64.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
